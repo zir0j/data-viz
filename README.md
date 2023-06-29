@@ -1,10 +1,10 @@
 # Data Visualization projects
-A collection of Power BI dashboards for practice.
+A collection of Power BI dashboards for practice. Subsequent PDF documents are uploaded in case they cannot be viewed.
 
 <table>
   <tr>
-    <th>Title</th>
-    <th>Decription</th>
+    <th><b>Title</th>
+    <th><b>Decription</th>
   </tr>
   <tr>
     <td>Fantano</td>
