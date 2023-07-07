@@ -14,4 +14,8 @@ A collection of Power BI dashboards for practice. Subsequent PDF documents are u
     <td>k_idols</td>
     <td>A dashboard made to show the debut of Idols and K-Pop groups on the bases of Gender, Age, and Location</td>
   </tr>
+  <tr>
+    <td>Dengue Heat Map</td>
+    <td>A dynamic heatmap showcasing the incidents of Dengue cases and deaths within four years in the Philippines. Dataset found <a href="https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines">here</a></td>
+  </tr>
 </table>
