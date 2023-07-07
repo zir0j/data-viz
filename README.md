@@ -1,5 +1,5 @@
 # Data Visualization projects
-A collection of Power BI dashboards for practice. Subsequent PDF documents are uploaded in case they cannot be viewed.
+A collection of Data Visualization projects for practice. Subsequent PDF documents may be viewed in case they cannot be viewed.
 
 <table>
   <tr>
